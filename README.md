@@ -1,2 +1,2 @@
 # Hormonal-regulation-of-growth-in-juvenile-fish
-Evolutionary optimization model of fish growth that combines internal regulation of growth by hormone levels with the external influence of food availability and predation risk.
+We combine physiological, environmental and evolutionary aspects of fish growth in a state-dependent model where the optimal regulation of growth and survival is achieved through hormonal regulation of behaviour.
